@@ -1,0 +1,9 @@
+﻿query,expected,clip_hit1,clip_hit5,keyword_hit1,keyword_hit5
+a pair of black sneakers,black sneakers.jpg,1,1,1,1
+blue sports shoes,blue sneakers.jpg,1,1,0,1
+a blue coffee mug,blue cup.jpg,1,1,1,1
+a red tote bag,red bag.png,1,1,1,1
+black headphones,black headphones.jpg,1,1,1,1
+a black wristwatch,black watch.jpg,1,1,0,1
+yellow mugs,yellow mugs.jpeg,1,1,1,1
+a black crossbody bag,black bag.jpg,1,1,1,1
