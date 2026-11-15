@@ -1,9 +1,31 @@
-query,expected_filename
-a pair of black sneakers,black sneakers.jpg
-blue sports shoes,blue sneakers.jpg
-a blue coffee mug,blue cup.jpg
-a red tote bag,red bag.png
-black headphones,black headphones.jpg
-a black wristwatch,black watch.jpg
-yellow mugs,yellow mugs.jpeg
-a black crossbody bag,black bag.jpg
+﻿query,expected_filename
+green ceramic coffee mug,4534.90_7_tif_1000x1000.jpg
+black gothic mug with an eye decoration,650f064eec775b22689ea4c091d52986.jpg
+pink cup with a branch shaped handle,68dad7a7551eb5e2bb97ae09750175e0.jpg
+bright orange drinking mug,7vzy84agqj6o8twh24g8sb6cqqxcbbhq.jpg
+white teacup with a flower shaped saucer,b3caf013a63365ae5195faa5837414ed.jpg
+black low top shoes with white soles,black sneakers.jpg
+burgundy and cream sneakers,4e796dc2e8b8ed673721af2d3d375953.jpg
+white high top sneakers with blue shoelaces,54b90ecdb758252c6fa7174f2b238c23.jpg
+olive green trainers with a black star,b9638462e66768cda3127578ee862a47.jpg
+yellow and blue chunky sneakers,c3222d0348244d1eda9988cbd6dae5ca.jpg
+brown leather messenger bag with a front buckle,2-801d404ef76fce6bd0e91fc02cd8c17b.jpg
+light blue handbag with a ruffled shoulder strap,14bcfae57aa5fe94c2d95644bc5fcd09.jpg
+cream shoulder purse with a golden bow,2529c923564752b4b381ad02a896241a.jpg
+dark green curved shoulder handbag,green2 bag.jpg
+plain red fabric shopping tote bag,red bag.png
+lavender purple over ear headphones,7329.jpg
+white gaming headphones with cat ears,d62dfa2c7444fda78a16eda2ef0e3bb0.jpg
+silver over ear audio headphones,cd5b395f719e8e67763ca04103fbda67.jpg
+burgundy headphones decorated with a ribbon bow,974d1a7034ec622140451ceb117080ab.jpg
+black headphones resting on a beige bag,black headphones.jpg
+silver metal wristwatch with a black dial,3bf3c427ff7237301609892ab7caa887.jpg
+gold bracelet wristwatch with a dark red dial,470adfdfeea9eae90ffa4a325f7bbcc4.jpg
+pink rectangular face wristwatch,66b2861312d409d429e192681dd4c812.jpg
+flower shaped wristwatch with a green strap,ad3f7ec93fc871ab820eb98cd91091a3.jpg
+black metal wristwatch with a green face,black watch.jpg
+bright yellow backpack with a white flower accessory,010288c8adb625dcd78b54dc83327eaf.jpg
+light green backpack with a plush toy charm,65a5709ef077734668e4d9964eec15d1.jpg
+brown patterned backpack with tiny white dots,7d90fbdcf51f87218b5a955d12fc9921.jpg
+tan backpack with a star shaped charm,83ed9459d2edf3f2d7707bc8e99fdd7f.jpg
+black striped backpack with white ribbon bows,e9dd54fb6390b2fa2a1e929ca6e4fbd9.jpg

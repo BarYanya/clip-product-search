@@ -107,11 +107,13 @@ def keyword_search(query):
     for filename in filenames:
         product = catalog[filename]
 
+        
+        
         text = (
-            Path(filename).stem + " "
-            + product["title"] + " "
+            product["title"] + " "
             + product["description"]
         )
+
 
         matches = query_words & get_words(text)
         scores.append(len(matches))

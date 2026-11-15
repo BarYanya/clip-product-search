@@ -125,11 +125,13 @@ def keyword_search(query):
     for i, filename in enumerate(filenames):
         product = catalog[filename]
 
+        
+
         text = (
-            Path(filename).stem + " "
-            + product["title"] + " "
+            product["title"] + " "
             + product["description"]
         )
+
 
         score = len(query_words & words(text))
 
