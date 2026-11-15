@@ -1,15 +1,14 @@
-
-# Виртуальное окружение
 .venv/
 
-# Служебные файлы Python
+
 __pycache__/
 *.pyc
 
-# Локальные настройки
+
 .env
 .vscode/
 
-# Веса нейросетей
+
 *.safetensors
 *.bin
+image_embeddings.pt
